@@ -21,6 +21,10 @@ Make sure your server is up and running to serve requests.
 - Bug fix [Update in package json file on the start script for backend. It is now "rails s" insted of "yarn start"]
 - A documentation update [Added more information about what is needed and the project setup]
 
+# How Has This Been Tested?
+
+- Test A [After run `yarn start` you should go to your browser and tap `http://localhost:3000/`. You should see the app running]
+
 ## Pages overview
 
 - Home page (URL: /#/ )
