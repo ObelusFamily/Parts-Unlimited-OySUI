@@ -4,7 +4,8 @@ The Parts Unlimited Frontend is an SPA written with [React](https://reactjs.org/
 
 ## Getting started
 
-To start the app use: `yarn start` from the frontend directory.
+- Make sure you have yarn https://classic.yarnpkg.com/en/docs/install/#mac-stable
+- In the main folder cd to frontend folder and run `yarn install`
 
 Make sure your server is up and running to serve requests.
 
