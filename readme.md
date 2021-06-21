@@ -13,3 +13,8 @@ Changelog:
 
 - Bug fix [Update in package json file on the start script for backend. It is now "rails s" insted of "yarn start"]
 - A documentation update [Added more information about what is needed and the project setup]
+
+###  21-06-21
+
+- Bug Fix when loading the application without data in the DB.
+- Adding Data to the seeds.rb file
