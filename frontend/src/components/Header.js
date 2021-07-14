@@ -1,5 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import PlaceHolderImage from "./PlaceHolderImage";
 
 const LoggedOutView = props => {
   if (!props.currentUser) {
@@ -54,7 +55,7 @@ const LoggedInView = props => {
 
         <li className="nav-item">
           <Link to={`/@${props.currentUser.username}`} className="nav-link">
-            <img
+            <PlaceHolderImage
               src={props.currentUser.image}
               className="user-pic pr-1"
               alt={props.currentUser.username}
