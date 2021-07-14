@@ -9,6 +9,12 @@ After setup each section you should start the app use: `yarn start` in the main 
 When implementing a new feature or fixing a bug, please create a new pull request against `main` from a feature/bug branch and add `@janesmithwilco` as reviewer.
 
 Changelog:
+
+###  14-07-21
+
+- Center profile follow information for mobile devices
+- Update gem acts_as_follower dependency in Gemfile file. This was causing problems with following other issues.
+
 ###  13-07-21
 
 - Bug fix displaying broken image on the items when the item.image was empty.
