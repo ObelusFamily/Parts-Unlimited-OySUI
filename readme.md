@@ -12,6 +12,7 @@ Changelog:
 
 ###  14-07-21
 
+- Center profile follow information for mobile devices
 - Update gem acts_as_follower dependency in Gemfile file. This was causing problems with following other issues.
 
 ###  13-07-21
